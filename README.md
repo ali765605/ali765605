@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ali
 - 👀 Currently pursuing BCS honours and a minors in Management Sciences at UWaterloo
 - 🌱 I’m currently learning and exploring data analytics and visualization
-- 💞️ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/ali765605/github-readme-stats)
+- 💞️ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ali765605)](https://github.com/ali765605/github-readme-stats)
 
 
 <!---
